@@ -95,13 +95,6 @@ This project demonstrates that while **FinBERT effectively extracts financial se
 
 The findings highlight the difficulty of converting qualitative news signals into consistent alpha and reinforce the importance of **rigorous empirical validation** when applying NLP models to financial markets.
 
-## Future Improvements
-- Event-based sentiment windows instead of daily aggregation
-- Sentiment decay functions
-- Fine-tuning FinBERT on regional financial news
-- Volatility or regime-based prediction targets
-- Cross-sectional factor modeling instead of single-ticker forecasting
-
 ## Tech Stack used
 - Python
 - GoogleNews API
@@ -111,5 +104,3 @@ The findings highlight the difficulty of converting qualitative news signals int
 - statsmodels
 - TensorFlow / Keras
 - Pandas, NumPy, Matplotlib
-## Author
-Mayank Kulkarni
