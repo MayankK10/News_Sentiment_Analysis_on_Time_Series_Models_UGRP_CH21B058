@@ -1,7 +1,7 @@
 # News_Sentiment_Analysis_on_Time_Series_Models_Undergraduate_CH21B058
-Financial news sentiment analysis by generating embeddings using FinBERT and testing exogemeous response on Time Series models using the SET50 Thai Stock dataset.
+Financial news sentiment analysis by generating embeddings using FinBERT and testing exogenous response on Time Series models using the SET50 Thai Stock dataset.
 
-# FinBERT-Based Financial News Sentiment and its affect on Time Series Data
+# FinBERT-Based Financial News Sentiment and its effect on Time Series Data
 
 ## Overview
 This project studies whether **financial news sentiment**, extracted using a pretrained **FinBERT** model, improves short-term **stock return prediction**.  
@@ -26,7 +26,7 @@ The analysis is conducted on **SET50 (Thailand) equities**, combining daily news
 
 ### Market Data
 - Daily adjusted stock prices
-- Downloaded using `yfinance`
+- Downloaded using `yfinance.`
 - Two-year historical window per ticker
   
 ## Methodology
